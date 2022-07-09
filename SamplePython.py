@@ -12,6 +12,6 @@ class Dog():
 
 # creating instance of the class
 
-my_obj = Dog('German Shepeard','Cecear',True)
+my_obj = Dog('German Shepeard','Cindrella',True)
 
 my_obj.my_dog()
